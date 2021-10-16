@@ -22,10 +22,6 @@
   * [Dynamo](workshop/iroiro/dynamo.md)
   * [RTK](workshop/iroiro/rtk.md)
   * [ほんとに何でも](workshop/iroiro/hontonidemo.md)
-* [Page 1](workshop/page-1.md)
-* [Page 4](workshop/page-4.md)
-* [Page 2](workshop/page-2.md)
-* [Page 3](workshop/page-3.md)
 
 ***
 
