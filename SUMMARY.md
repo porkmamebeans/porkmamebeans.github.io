@@ -1,10 +1,9 @@
 # Table of contents
 
-* [🚀 ことはじめ](README.md)
-* [スケジュール](schedule.md)
-
 ## Workshop
 
+* [🚀 ことはじめ](README.md)
+* [スケジュール](workshop/schedule.md)
 * [Revit 編](workshop/dynamo-for-revit/README.md)
   * [#01 導入/操作方法/リソース](workshop/dynamo-for-revit/01-induction.md)
   * [#02 初歩: アトラクタ](workshop/dynamo-for-revit/02-attractor.md)
