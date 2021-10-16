@@ -1,8 +1,4 @@
----
-description: ことはじめ
----
-
-# 🚀
+# 🚀 ことはじめ
 
 
 
@@ -12,6 +8,10 @@ description: ことはじめ
 
 {% hint style="info" %}
 毎週木曜日11:15AMからやってます👊
+{% endhint %}
+
+{% hint style="danger" %}
+2021年5月くらいに、いったんオンライン研究会は休止しました
 {% endhint %}
 
 ### 環境
